@@ -10,4 +10,4 @@
 
 ## Installation
 
-> Copy Gulpfile to your project folder
+> Copy Gulpfile to your project folder and manage with npm or yarn. 
