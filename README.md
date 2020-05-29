@@ -1,5 +1,8 @@
 # Gulpfile
 
+Gulpfile-sass only for sass compilation.
+Gulpfile contains javascript building and minification and sass compilation and minification.
+
 ## Introduction
 
 > Gulpfile with predefined task to mix sass, bundle javascript, code linter, watchify, minify css and js."
