@@ -1,4 +1,4 @@
-# Gulpfile
+# My Gulpfile
 
 Gulpfile-sass only for sass compilation and scss watch.
 Gulpfile contains javascript building and minification and sass compilation and minification.
