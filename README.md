@@ -5,7 +5,7 @@ Gulpfile contains javascript building and minification and sass compilation and 
 
 ## Introduction
 
-> Gulpfile with predefined task to mix sass, bundle javascript, code linter, watchify, minify css and js."
+> Gulpfile with predefined task to mix sass, bundle javascript, code linter, watchify, minify css and js.
 
 ## Code Samples
 
